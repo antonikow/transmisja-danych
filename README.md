@@ -1,3 +1,3 @@
 # transmisja-danych
 
-Symulacja transmisji danych tekstowych z koderem, dekoderem, modulacją, demodulacją i kodem Hamminga.
+Symulacja transmisji danych tekstowych przez kanał transmisyjny z koderem, dekoderem, modulacją, demodulacją i kodem Hamminga.
